@@ -1,1 +1,1 @@
-# Riza | Sandboxing tools to safely run customer code in your app
+# Riza | Sandboxing tools to safely run user code in your app
