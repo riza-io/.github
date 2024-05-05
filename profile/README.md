@@ -1,1 +1,1 @@
-# Riza | Sandboxing tools to safely run untrusted code from your app
+# Riza | Tools to safely run untrusted code from your app
