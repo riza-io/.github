@@ -1,7 +1,7 @@
 # Riza | Tools to safely run untrusted code from your app
 
 <div align="center">
-  <a href="[https://riza.io/](https://docs.riza.io/introduction)">Get started</a>
+  <a href="https://docs.riza.io/introduction">Get started</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
   <a href="https://docs.riza.io">Docs</a>
   <hr />
